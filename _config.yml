@@ -7,4 +7,4 @@ exclude: [LICENCE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
 
 #Build settings
 permalink: pretty
-theme: minima
+theme: jekyll-theme-architect
