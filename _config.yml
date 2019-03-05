@@ -1,10 +1,5 @@
-highlighter: rogue
-name: Octocat's Wanderings
-description: Chronicles of my adventures in coding and open source
-url: "https://halitizgin.github.io"
-lsi: false
-exclude: [LICENCE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
-
-#Build settings
-permalink: pretty
+title: Architect theme
+description: Architect is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-architect
